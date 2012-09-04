@@ -7,6 +7,8 @@ The code template for the user space programs.
   <dt>list</dt>
   <dd>
     * Linux kernel linked list for user space
+  </dd>
+  <dd>
     * http://isis.poly.edu/kulesh/stuff/src/klist/ (Linux Kernel Linked List Explained)
   </dd>
 
@@ -14,9 +16,9 @@ The code template for the user space programs.
  
   <dt>sysqueue</dt>
   <dd> 
-    * #include <sys/queue.h>
-    * man 3 queue
-    * lists, tail queues, and circular queues.
+    1. #include <sys/queue.h>
+    2. man 3 queue
+    3. lists, tail queues, and circular queues.
   </dd>
 </dl>
 
