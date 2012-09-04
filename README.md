@@ -1,24 +1,19 @@
 code_tmpl
 ======
 
-The code template for the user space programs.
+The code template for the project development.
 
 <dl>
   <dt>list</dt>
   <dd>
-    * Linux kernel linked list for user space
-  </dd>
-  <dd>
-    * http://isis.poly.edu/kulesh/stuff/src/klist/ (Linux Kernel Linked List Explained)
+    Linux kernel linked list for user space.
   </dd>
 
   <dt>lset</dt>
  
   <dt>sysqueue</dt>
   <dd> 
-    1. #include <sys/queue.h>
-    2. man 3 queue
-    3. lists, tail queues, and circular queues.
+    The lists, tail queues, and circular queues from #include <sys/queue.h>.
   </dd>
 </dl>
 
